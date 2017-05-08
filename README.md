@@ -12,10 +12,10 @@
 
 | 序号      |     姓名 |   redmine主页   |github主页|角色|
 | :-------- | --------:| :------: |:------: |:------: |
-| 1 |徐继辉| http://www.hostedredmine.com/users/56819 |https://github.com/xujihui|项目经理、UI、开发|
-| 2 |祁晓宇| http://www.hostedredmine.com/users/57088 |https://github.com/qixiaoyu233|开发、测试|
-| 3 |朱晓彬| http://www.hostedredmine.com/users/57363 |https://github.com/sumozhuxiaobin|产品、开发|
-| 4 |蔡自欢| http://www.hostedredmine.com/users/57067 |https://github.com/caizihuan|开发、测试|
+| 1 |徐继辉  | http://www.hostedredmine.com/users/56819 |https://github.com/xujihui|项目经理、UI、开发|
+| 2 |祁晓宇  | http://www.hostedredmine.com/users/57088 |https://github.com/qixiaoyu233|开发、测试|
+| 3 |朱晓彬  | http://www.hostedredmine.com/users/57363 |https://github.com/sumozhuxiaobin|产品、开发|
+| 4 |蔡自2  | http://www.hostedredmine.com/users/57067 |https://github.com/caizihuan|开发、测试|
 
 ## 项目redmine地址
 - http://www.hostedredmine.com/projects/java-_goaaha_rainbow
