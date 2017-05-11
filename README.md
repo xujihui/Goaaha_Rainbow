@@ -22,6 +22,8 @@
 - http://www.hostedredmine.com/projects/java-_goaaha_rainbow
 ## Github项目仓库地址
 - https://github.com/xujihui/Goaaha_Rainbow
+## 项目文档地址
+- https://github.com/xujihui/Goaaha_Rainbow/tree/master/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3
 ## 反馈与建议
 - 开发者QQ群：638205988
 - 邮箱：805991134@qq.com
