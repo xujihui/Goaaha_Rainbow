@@ -1,4 +1,5 @@
 ﻿# Goaaha_Rainbow
+- ![enter image description here](https://github.com/xujihui/IslandTrading/blob/master/welcome.png?raw=true)
 
 **Goaaha**   无论是出国留学还是国外游玩，语言、货币不通，陌生的环境是我们最大的困难。在如今移动设备发达的社会，我们需要一款app来缓解这个尴尬。我们的Goaaha项目是一个集聊天翻译，货币兑换以及应用地图功能于一体的应用，希望可以对需要的人提供帮助。
 。
