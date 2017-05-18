@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\src\debug\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="F:\wendang\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="F:\wendang\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\debug\assets"/></dataSet></merger>
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5

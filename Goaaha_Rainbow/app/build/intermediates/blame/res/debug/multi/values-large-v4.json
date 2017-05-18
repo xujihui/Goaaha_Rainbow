@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
+=======
+        "outputFile": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 103
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-large\\dimens.xml",
+=======
+                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-large\\dimens.xml",
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 157
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-large\\dimens.xml",
+=======
+                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-large\\dimens.xml",
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,

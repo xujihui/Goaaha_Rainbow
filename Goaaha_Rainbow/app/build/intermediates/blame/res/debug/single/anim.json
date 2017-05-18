@@ -4,12 +4,21 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\fade_in.xml"
-    },
-    {
+=======
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\head_out.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
@@ -20,12 +29,17 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out.xml"
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+=======
+        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
@@ -68,18 +82,32 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\hold.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+=======
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_out.xml"
     },
@@ -90,10 +118,18 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+=======
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_out.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
@@ -136,8 +172,20 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\push_top_out2.xml"
     },
     {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\head_in.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
@@ -160,16 +208,38 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\anim\\push_top_in.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+=======
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\fade_out.xml"
+=======
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\anim\\fade_in.xml"
+>>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
