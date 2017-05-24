@@ -14,10 +14,10 @@ android {
     }
     signingConfigs {
         config {
-            keyAlias 'key'
-            keyPassword '123456'
-            storeFile file('D:/key/keystore.jks')
-            storePassword '123456'
+            keyAlias 'Key'
+            keyPassword '108735'
+            storeFile file('D:/baidu/Android/key/goaaha.jks')
+            storePassword '108735'
         }
     }
     defaultConfig {

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
-    },
-    {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malaysia.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\malaysia.png"
+    },
+    {
+        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
+        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thailand.png",
@@ -28,14 +28,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\context_menu_item_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switzerland.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\switzerland.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_bj.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_cancel_bj.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\roominfo_add_btn.xml"
     },
@@ -56,7 +48,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_register_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_grey.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\mm_listitem_grey.xml"
     },
@@ -67,59 +58,30 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_pressed_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_pressed_shape.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\common_tab_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_zealand.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\new_zealand.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\recording_hint_bg.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denmark.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\denmark.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_press_speak_btn.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_press_speak_btn.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\china.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\china.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\into.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\into.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\recording_hint_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_select_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\type_select_btn.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_zealand.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\new_zealand.png"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_zealand.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\new_zealand.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_minus_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\smiley_minus_btn.xml"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
@@ -130,10 +92,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_logout_pressed_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_select_btn.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\type_select_btn.xml"
     },
@@ -142,13 +100,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_send_btn_selector.xml"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_error_item_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_error_item_bg.xml"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\into.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\into.png"
     },
@@ -157,13 +108,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\singapore.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_pressed_shape.xml"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_normal_shape.xml"
     },
@@ -184,24 +128,24 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\south_korea.png"
     },
     {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\search_clear.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_korea.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\south_korea.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\sweden.png"
+        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg00.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head_bg00.png"
     },
     {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
+        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
+        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\sweden.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\into.png",
@@ -236,10 +180,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_edit.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_location_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_location_selector.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_bj.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_bj.xml"
     },
@@ -248,13 +188,10 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\recording_text_hint_bg.xml"
     },
@@ -263,13 +200,10 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_video_selector.xml"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_normal_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_logout_normal_shape.xml"
     },
@@ -286,29 +220,12 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\appitem_del_btn.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter1.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\inter1.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_korea.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\south_korea.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myprofile_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_myprofile_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_press_speak_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_press_speak_btn.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_answer_bg.xml",
@@ -335,10 +252,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\checkbox_bg_gray_selector.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_green_normal_shape.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
     },
@@ -363,17 +276,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_normal_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_file_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_file_selector.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canada.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\canada.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_gray_pressed_shape.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head1.png",
@@ -432,14 +336,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_normal_shape.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\recording_text_hint_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_error_item_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_error_item_bg.xml"
     },
@@ -456,21 +352,16 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_bj.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_location_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_location_selector.xml"
-=======
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_takepic_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goaaha_logo1.jpg",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\goaaha_logo1.jpg"
     },
     {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_normal_shape.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_normal_shape.xml"
+        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
+        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_takepic_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
@@ -493,21 +384,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_bg.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_login_bg.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_gray_selector.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg00.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head_bg00.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\edit_text_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem.xml",
@@ -518,29 +400,16 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_pressed_shape.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_normal_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_selector.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\camera_switch_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
-=======
+    },
+    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_normal_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_normal_shape.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head1.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head1.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
@@ -555,10 +424,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_grey.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\mm_listitem_grey.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\recording_text_hint_bg.xml"
     },
@@ -567,16 +432,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canada.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\canada.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thailand.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\thailand.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thailand.png",
@@ -589,48 +446,18 @@
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myprofile_selector.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_myprofile_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatfrom_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_btn_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_send_btn_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myprofile_selector.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\button_myprofile_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denmark.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\denmark.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\b.jpg"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nickename_input_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\nickename_input_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_answer_bg.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\call_answer_bg.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\australia.png",
@@ -669,25 +496,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_file_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\checkbox_bg_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usa.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\usa.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_green_pressed_shape.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goaaha_logo.png",
@@ -710,13 +520,10 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\inter1.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_takepic_selector.xml"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_pressed_shape.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_pressed_shape.xml"
     },
@@ -725,7 +532,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_voice_call_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_korea.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\south_korea.png"
     },
@@ -742,13 +548,10 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\checkbox_bg_gray_selector.xml"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_video_call_selector.xml"
     },
@@ -759,14 +562,6 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\china.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\china.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\denmark.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\denmark.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_voice_call_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_voice_call_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\australia.png",
@@ -783,10 +578,6 @@
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_video_call_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_face_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_face_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
@@ -813,14 +604,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\button_myprofile_selector.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_keyboard_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\japan.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\japan.png"
     },
@@ -833,13 +616,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_error_item_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_cancel_normal_shape.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
@@ -886,34 +664,24 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\into.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_normal_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_gray_normal_shape.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_keyboard_btn.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_keyboard_btn.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head1.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head1.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\japan.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\japan.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",
@@ -932,46 +700,24 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_voice_call_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_face_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_face_selector.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\red_circle.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goaaha_logo1.jpg",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\goaaha_logo1.jpg"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_africa.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\south_africa.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singapore.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\singapore.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\sweden.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\red_circle.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_select_btn.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\type_select_btn.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\search_clear.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\australia.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\australia.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singapore.png",
@@ -994,33 +740,12 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\input_bg.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sweden.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\sweden.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usa.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\usa.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_edit.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_edit.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\mm_title_act_btn.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\tab_setting_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\red_circle.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_face_selector.xml",
@@ -1059,21 +784,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\checkbox_bg_gray_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_zealand.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\new_zealand.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\input_bg.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_list_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\tab_contact_list_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_video_call_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\italy.png",
@@ -1092,21 +804,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\button_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\context_menu_item_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\context_menu_item_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\smiley_add_btn.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nickename_input_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\nickename_input_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
@@ -1149,25 +852,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\nickename_input_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\italy.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\italy.png"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_pressed_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_logout_pressed_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_image_selector.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_file_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_file_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thailand.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\thailand.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\china.png",
@@ -1180,10 +870,6 @@
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_location_selector.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_location_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
@@ -1218,14 +904,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\mm_listitem_grey.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_answer_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\call_answer_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appitem_del_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\appitem_del_btn.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_bg.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\button_login_bg.xml"
     },
@@ -1238,29 +916,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\head1.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_normal_shape.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\input_bg.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_register_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_register_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goaaha_logo.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\goaaha_logo.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\main_bottom_item_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_login_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\japan.png",
@@ -1279,10 +940,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_green_pressed_shape.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_logout_normal_shape.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\tab_chat_bg.xml"
     },
@@ -1295,10 +952,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\button_register_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_voice_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatting_setmode_voice_btn.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_list_bg.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\tab_contact_list_bg.xml"
     },
@@ -1307,29 +960,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\button_selector_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\the_netherlands.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\the_netherlands.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\search_clear.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uk.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\uk.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\sidebar_background_pressed.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_takepic_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
@@ -1352,10 +988,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\chat_location_selector.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatto_bg.xml"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_gray_pressed_shape.xml"
     },
@@ -1368,13 +1000,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_cancel_pressed_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\checkbox_bg_selector.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_bottom_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
@@ -1393,20 +1020,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\context_menu_item_bg.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malaysia.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\malaysia.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\common_tab_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\mm_listitem.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head_bg.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn.xml",
@@ -1425,42 +1040,20 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\red_circle.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_error_item_bg.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_error_item_bg.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\the_netherlands.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\the_netherlands.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\mm_listitem.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\msg_state_failed_resend.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_blue_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malaysia.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\malaysia.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_gray_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\checkbox_bg_gray_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\roominfo_add_btn.xml"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
@@ -1491,51 +1084,32 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\smiley_minus_btn.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_normal_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_cancel_normal_shape.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_pressed_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_cancel_pressed_shape.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\call_hangup_bg.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_green_selector.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uk.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\uk.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_normal_shape.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_gray_normal_shape.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_style_alert_dialog_special.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\head_bg.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\b.jpg"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter1.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\inter1.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\inter.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_pressed_shape.xml",
@@ -1550,21 +1124,12 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\btn_white_normal_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\timestampe_bg.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\recording_hint_bg.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_white_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\camera_switch_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
@@ -1599,50 +1164,28 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\chat_edit.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed_shape.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_green_pressed_shape.xml"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\btn_bottom_selector.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_image_selector.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
+    },
+    {
+        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goaaha_logo2.png",
+        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\goaaha_logo2.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_voice_btn.xml",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chatting_setmode_voice_btn.xml"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\call_hangup_bg.xml"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_bg.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable\\head_bg.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\button_bg.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\chat_video_selector.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\smiley_add_btn.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\south_africa.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable\\south_africa.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inter.png",

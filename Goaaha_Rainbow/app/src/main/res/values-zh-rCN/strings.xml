@@ -65,6 +65,7 @@
     <string name="exit_group">退出</string>
     <string name="connect_conflict">同一帐号已在其他设备登录</string>
     <string name="em_user_remove">此用户已被移除</string>
+    <string name="set">设置</string>
     <string name="notify">新消息提醒</string>
     <string name="newnotify">接收新消息通知</string>
     <string name="voice">声音</string>
@@ -74,6 +75,7 @@
     <string name="book_black">通讯录黑名单</string>
     <string name="session">会话</string>
     <string name="address_book">通讯录</string>
+    <string name="setting">设置</string>
     <string name="currency">货币兑换</string>
     <string name="map">地图</string>
     <string name="now_refresh_list">正在刷新联系人</string>
@@ -318,6 +320,4 @@
         <item>繁体中文</item>
         <item>越南语</item>
     </string-array>
-    <string name="setting">个人中心</string>
-    <string name="set">个人中心</string>
 </resources>

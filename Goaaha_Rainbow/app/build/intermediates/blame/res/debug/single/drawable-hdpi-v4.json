@@ -4,47 +4,28 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_20.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjiapengyou.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
@@ -67,34 +48,22 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
     },
     {
-<<<<<<< HEAD
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_selected.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_selected.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_normal.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
     },
@@ -111,28 +80,18 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\login_error_icon.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_remove.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
+    },
+    {
+        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
+        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
     },
@@ -151,35 +110,14 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_selected.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\conversation_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
@@ -190,17 +128,12 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seabar_input.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\seabar_input.9.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
@@ -219,13 +152,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
     },
     {
-<<<<<<< HEAD
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_32.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_switch_normal.9.png",
@@ -236,7 +164,6 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
     },
     {
-<<<<<<< HEAD
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
     },
@@ -245,8 +172,6 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chat_video_mask_to.9.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_22.png"
     },
@@ -255,24 +180,18 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mine.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_19.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_top_bg.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_top_bg.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
     },
@@ -285,24 +204,14 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_23.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unread_count_bg.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\unread_count_bg.9.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
     },
@@ -315,8 +224,6 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
     },
@@ -333,44 +240,26 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bg2.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bg2.9.png"
-    },
-    {
-<<<<<<< HEAD
-=======
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
     },
     {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seabar_input.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\seabar_input.9.png"
     },
@@ -379,8 +268,6 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_download_btn_nor.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_off.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_off.png"
     },
@@ -389,13 +276,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f1.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f1.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_34.png"
     },
@@ -416,13 +296,10 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bg2.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bg2.9.png"
     },
@@ -451,13 +328,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_07.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
@@ -468,36 +340,18 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chat_video_mask_to.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_14.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_5.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
-    },
-    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_pressed.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_pressed.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
     },
@@ -516,46 +370,24 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_4.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_download_btn_nor.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\video_download_btn_nor.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_23.png"
     },
@@ -572,13 +404,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
@@ -605,18 +432,10 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_14.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidetab_bg_press.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\slidetab_bg_press.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
@@ -627,39 +446,18 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_4.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_11.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_top_bg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_top_bg.9.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
-    },
-    {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
@@ -678,13 +476,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups_icon.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back.png"
     },
@@ -693,13 +484,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_selected.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_selected.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pwd.png",
@@ -722,13 +508,8 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_20.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
@@ -747,33 +528,16 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
+        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_remove.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_19.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_remove.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_21.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
@@ -788,7 +552,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_17.png"
     },
@@ -797,19 +560,10 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ground_overlay.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_2.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_2.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
     },
@@ -818,47 +572,28 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_2.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_13.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups_icon.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_22.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\location_msg.9.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_26.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
@@ -877,7 +612,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bottom_bg.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
     },
@@ -888,10 +622,6 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
@@ -902,28 +632,10 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saoyisao.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\location_msg.9.png"
     },
@@ -932,46 +644,18 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
-    },
-    {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_normal.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
     },
     {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
     },
@@ -1004,13 +688,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_05.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_background.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_background.9.png"
     },
@@ -1027,7 +704,6 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_21.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_simple.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_simple.9.png"
     },
@@ -1044,20 +720,6 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_normal.9.png"
     },
     {
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_7.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saoyisao.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
     },
@@ -1066,7 +728,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
     },
@@ -1077,23 +738,16 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_normal.9.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_normal.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bg2.9.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bg2.9.png"
     },
@@ -1102,13 +756,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\seabar_input.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
@@ -1131,13 +780,8 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
@@ -1148,13 +792,10 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\settings_normal.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_normal.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
     },
@@ -1171,13 +812,10 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_16.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
     },
@@ -1198,57 +836,24 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_disable.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
     },
     {
-=======
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_background.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_background.9.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_stop_btn.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_stop_btn.png"
     },
     {
-<<<<<<< HEAD
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_normal.png"
-    },
-    {
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_23.png"
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
@@ -1271,17 +876,8 @@
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_off.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_disable.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_disable.9.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_selected.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_selected.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
@@ -1300,876 +896,18 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_grey_normal.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
-=======
+    },
+    {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bottom_bg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bottom_bg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_selected.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\map_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\to_group_details_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_34.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_simple.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_simple.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_3.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_17.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_active.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_active.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjiapengyou.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_grey_normal.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_download_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_download_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pwd.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_pwd.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ground_overlay.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ground_overlay.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\currency_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidetab_bg_press.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\slidetab_bg_press.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_face.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\default_face.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\location_msg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mini_avatar_shadow.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mini_avatar_shadow.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_active.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_active.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_10.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_05.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_13.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_13.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_pressed.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_3.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_22.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_6.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_stop_btn.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_stop_btn.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_on.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_on.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_video_mask_to.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chat_video_mask_to.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_grey_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_22.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_switch_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_pressed.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_remove.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_pressed.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mini_avatar_shadow.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mini_avatar_shadow.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_19.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_selected.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\contact_list_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_switch_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_26.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_32.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_top_bg.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_top_bg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unread_count_bg.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\unread_count_bg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_17.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjiapengyou.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_pressed.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_disable.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_disable.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_5.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_small_nor.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_small_nor.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_disable.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_disable.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_active.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_active.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_21.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_10.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_msg.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\location_msg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiahao.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidetab_bg_press.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\slidetab_bg_press.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_4.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\currency_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_selected.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\map_selected.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input_bar_bg_normal.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\input_bar_bg_normal.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ground_overlay.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ground_overlay.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mine.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pwd.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_pwd.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f1.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f1.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_16.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seabar_input.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\seabar_input.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_6.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_small_nor.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_small_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_title_act_btn_pressed.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unread_count_bg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\unread_count_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_switch_pressed.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_face.9.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\default_face.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_error_icon.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\login_error_icon.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_23.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_switch_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\camera_switch_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_video_mask_to.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chat_video_mask_to.9.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_selected.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\map_selected.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_stop_btn.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_stop_btn.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_off.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_off.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_pressed.9.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_7.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiahao.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\to_group_details_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_14.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_on.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_on.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjiapengyou.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_2.png",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_2.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
     },
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
     },
@@ -2988,10 +1726,6 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
@@ -3002,7 +1736,6 @@
         "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bottom_bg.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
     },
@@ -3013,10 +1746,6 @@
     {
         "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm_dialog_bottom_bg.9.png",
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\confirm_dialog_bottom_bg.9.png"
-=======
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
     },
     {
         "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_simple.9.png",
@@ -3025,14 +1754,6 @@
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_pressed.png",
-        "source": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_pressed.png"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",

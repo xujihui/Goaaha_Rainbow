@@ -2133,11 +2133,7 @@
         ]
     },
     {
-<<<<<<< HEAD
         "outputFile": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\values-ru-rRU\\values-ru-rRU.xml",
-=======
-        "outputFile": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\values-ru-rRU\\values-ru-rRU.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
         "map": [
             {
                 "to": {
@@ -2148,11 +2144,7 @@
                     "endOffset": 122
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -2171,11 +2163,7 @@
                     "endOffset": 184
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -2194,11 +2182,7 @@
                     "endOffset": 256
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 89,
                         "startColumn": 4,
@@ -2217,11 +2201,7 @@
                     "endOffset": 318
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
@@ -2240,11 +2220,7 @@
                     "endOffset": 362
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -2263,11 +2239,7 @@
                     "endOffset": 431
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
@@ -2286,11 +2258,7 @@
                     "endOffset": 492
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 84,
                         "startColumn": 4,
@@ -2309,11 +2277,7 @@
                     "endOffset": 548
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
@@ -2332,11 +2296,7 @@
                     "endOffset": 612
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -2355,11 +2315,7 @@
                     "endOffset": 662
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
@@ -2378,11 +2334,7 @@
                     "endOffset": 719
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -2401,11 +2353,7 @@
                     "endOffset": 777
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -2424,11 +2372,7 @@
                     "endOffset": 868
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
@@ -2447,11 +2391,7 @@
                     "endOffset": 957
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 112,
                         "startColumn": 1,
@@ -2470,11 +2410,7 @@
                     "endOffset": 1028
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
@@ -2493,11 +2429,7 @@
                     "endOffset": 1108
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -2516,11 +2448,7 @@
                     "endOffset": 1167
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
@@ -2539,11 +2467,7 @@
                     "endOffset": 1240
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
@@ -2562,11 +2486,7 @@
                     "endOffset": 1297
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -2585,11 +2505,7 @@
                     "endOffset": 1367
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
@@ -2608,11 +2524,7 @@
                     "endOffset": 1424
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -2631,11 +2543,7 @@
                     "endOffset": 1474
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -2654,11 +2562,7 @@
                     "endOffset": 1517
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,
@@ -2677,11 +2581,7 @@
                     "endOffset": 1561
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
@@ -2700,11 +2600,7 @@
                     "endOffset": 1622
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -2723,11 +2619,7 @@
                     "endOffset": 1671
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2746,11 +2638,7 @@
                     "endOffset": 1730
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2769,11 +2657,7 @@
                     "endOffset": 1785
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2792,11 +2676,7 @@
                     "endOffset": 1833
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2815,11 +2695,7 @@
                     "endOffset": 1890
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2838,11 +2714,7 @@
                     "endOffset": 1952
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2861,11 +2733,7 @@
                     "endOffset": 1991
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2884,11 +2752,7 @@
                     "endOffset": 2044
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -2907,11 +2771,7 @@
                     "endOffset": 2096
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 88,
                         "startColumn": 4,
@@ -2930,11 +2790,7 @@
                     "endOffset": 2149
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -2953,11 +2809,7 @@
                     "endOffset": 2197
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -2976,11 +2828,7 @@
                     "endOffset": 2249
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -2999,11 +2847,7 @@
                     "endOffset": 2297
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -3022,11 +2866,7 @@
                     "endOffset": 2355
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3045,11 +2885,7 @@
                     "endOffset": 2405
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -3068,11 +2904,7 @@
                     "endOffset": 2453
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -3091,11 +2923,7 @@
                     "endOffset": 2501
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3114,11 +2942,7 @@
                     "endOffset": 2580
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -3137,11 +2961,7 @@
                     "endOffset": 2622
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -3160,11 +2980,7 @@
                     "endOffset": 2676
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -3183,11 +2999,7 @@
                     "endOffset": 2766
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -3206,11 +3018,7 @@
                     "endOffset": 2824
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -3229,11 +3037,7 @@
                     "endOffset": 2914
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -3252,11 +3056,7 @@
                     "endOffset": 3009
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -3275,11 +3075,7 @@
                     "endOffset": 3072
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -3298,11 +3094,7 @@
                     "endOffset": 3179
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -3321,11 +3113,7 @@
                     "endOffset": 3305
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -3344,11 +3132,7 @@
                     "endOffset": 3349
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -3367,11 +3151,7 @@
                     "endOffset": 3411
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3390,11 +3170,7 @@
                     "endOffset": 3454
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3413,11 +3189,7 @@
                     "endOffset": 3515
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3436,11 +3208,7 @@
                     "endOffset": 3570
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3459,11 +3227,7 @@
                     "endOffset": 3639
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3482,11 +3246,7 @@
                     "endOffset": 3693
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -3505,11 +3265,7 @@
                     "endOffset": 3750
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -3528,11 +3284,7 @@
                     "endOffset": 3841
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -3551,11 +3303,7 @@
                     "endOffset": 3927
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
@@ -3574,11 +3322,7 @@
                     "endOffset": 4001
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -3597,11 +3341,7 @@
                     "endOffset": 4046
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -3620,11 +3360,7 @@
                     "endOffset": 4137
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -3643,11 +3379,7 @@
                     "endOffset": 4181
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -3666,11 +3398,7 @@
                     "endOffset": 4227
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -3689,11 +3417,7 @@
                     "endOffset": 4270
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -3712,11 +3436,7 @@
                     "endOffset": 4318
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -3735,11 +3455,7 @@
                     "endOffset": 4364
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
@@ -3758,11 +3474,7 @@
                     "endOffset": 4455
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
@@ -3781,11 +3493,7 @@
                     "endOffset": 4528
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -3804,11 +3512,7 @@
                     "endOffset": 4593
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -3827,11 +3531,7 @@
                     "endOffset": 4655
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -3850,11 +3550,7 @@
                     "endOffset": 4695
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 97,
                         "startColumn": 4,
@@ -3873,11 +3569,7 @@
                     "endOffset": 4736
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -3896,11 +3588,7 @@
                     "endOffset": 4864
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -3919,11 +3607,7 @@
                     "endOffset": 4945
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -3942,11 +3626,7 @@
                     "endOffset": 4988
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
@@ -3965,11 +3645,7 @@
                     "endOffset": 5056
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -3988,11 +3664,7 @@
                     "endOffset": 5175
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -4011,11 +3683,7 @@
                     "endOffset": 5223
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
@@ -4034,11 +3702,7 @@
                     "endOffset": 5306
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -4057,11 +3721,7 @@
                     "endOffset": 5359
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
@@ -4080,11 +3740,7 @@
                     "endOffset": 5424
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -4103,11 +3759,7 @@
                     "endOffset": 5495
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -4126,11 +3778,7 @@
                     "endOffset": 5539
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
@@ -4149,11 +3797,7 @@
                     "endOffset": 5589
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -4172,11 +3816,7 @@
                     "endOffset": 5635
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -4195,11 +3835,7 @@
                     "endOffset": 5736
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -4218,11 +3854,7 @@
                     "endOffset": 5794
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -4241,11 +3873,7 @@
                     "endOffset": 5843
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
@@ -4264,11 +3892,7 @@
                     "endOffset": 5925
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4287,11 +3911,7 @@
                     "endOffset": 5979
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -4310,11 +3930,7 @@
                     "endOffset": 6022
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4333,11 +3949,7 @@
                     "endOffset": 6063
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
@@ -4356,11 +3968,7 @@
                     "endOffset": 6111
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -4379,11 +3987,7 @@
                     "endOffset": 6179
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -4402,11 +4006,7 @@
                     "endOffset": 6248
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4425,11 +4025,7 @@
                     "endOffset": 6291
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -4448,11 +4044,7 @@
                     "endOffset": 6333
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -4471,11 +4063,7 @@
                     "endOffset": 6379
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -4494,11 +4082,7 @@
                     "endOffset": 6422
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -4517,11 +4101,7 @@
                     "endOffset": 6475
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4540,11 +4120,7 @@
                     "endOffset": 6533
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4563,11 +4139,7 @@
                     "endOffset": 6608
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -4586,11 +4158,7 @@
                     "endOffset": 6664
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -4609,11 +4177,7 @@
                     "endOffset": 6719
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
@@ -4632,11 +4196,7 @@
                     "endOffset": 6761
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -4655,11 +4215,7 @@
                     "endOffset": 6805
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -4678,11 +4234,7 @@
                     "endOffset": 6862
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -4701,11 +4253,7 @@
                     "endOffset": 6953
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
-=======
-                    "file": "F:\\wendang\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
->>>>>>> 78f87df8f579833dd9ac45249cce31c0fc38e8a5
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,

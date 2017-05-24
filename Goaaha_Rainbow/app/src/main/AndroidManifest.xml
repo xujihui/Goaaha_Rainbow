@@ -35,7 +35,7 @@
     <application
         android:name=".DemoApplication"
         android:allowBackup="true"
-        android:icon="@drawable/goaaha_logo1"
+        android:icon="@drawable/goaaha_logo2"
         android:label="@string/app_name">
         <activity
             android:name=".activity.MainActivity"
@@ -262,9 +262,7 @@
             android:value="53912a3156240b01a7075ed1"></meta-data>
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="iifqdzMtLe3YWOOhSxPSL746fppYApF6"/>
-            <!--android:value="3ecea51f560650b1ed8a4b99808f52e8" -->
-
+            android:value="3ecea51f560650b1ed8a4b99808f52e8" />
 
         <!-- 账户信息界面 -->
         <activity
