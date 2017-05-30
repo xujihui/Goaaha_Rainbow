@@ -36,10 +36,10 @@ public class MainActivity extends AppCompatActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             RulerView rulerView = (RulerView) findViewById(R.id.ruler_view);
-            if (rulerView.getUnitType() == RulerView.Unit.INCH) {
-                rulerView.setUnitType(RulerView.Unit.CM);
-            } else {
+            if (rulerView.getUnitType() == RulerView.Unit.CM) {
                 rulerView.setUnitType(RulerView.Unit.INCH);
+            } else {
+                rulerView.setUnitType(RulerView.Unit.CM);
             }
             return true;
         }
