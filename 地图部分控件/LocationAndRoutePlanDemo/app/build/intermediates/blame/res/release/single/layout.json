@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\routeplan.xml",
+        "source": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\src\\main\\res\\layout\\routeplan.xml"
+    },
+    {
+        "merged": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_text_view.xml",
+        "source": "F:\\term2\\ditu\\BaiduLBS_AndroidSDK_Sample\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\LocationAndRoutePlanDemo\\app\\src\\main\\res\\layout\\custom_text_view.xml"
+    }
+]
