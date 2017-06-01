@@ -8,6 +8,10 @@
         "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-xhdpi\\to_group_details_normal.png"
     },
     {
+        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.jpg",
+        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.jpg"
+    },
+    {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\putongb.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\putongb.png"
     },
@@ -546,10 +550,6 @@
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_pressed.png",
         "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\drawable-xhdpi\\chat_video_call_pressed.png"
-    },
-    {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.png",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.png"
     },
     {
         "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_normal.png",

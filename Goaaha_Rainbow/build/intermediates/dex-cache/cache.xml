@@ -1,3 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_map_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_1_1_63503aae04437d2a66f162272f16f2066f878e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_radar_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec3b3b79fdcc8fe059676554e31053027043edf8">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_1_1_eb4530eb92f17d00b8cd4fafe1f91d8053624de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\easemobchat_2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_ddaae57beb3d20eb12730d8f7acf1ee262bb4787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_0f0b8c713b22d4a21811a286f989af1af548e052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_8c4b739c686202d66e31fc85cd5eb44e632fc2a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_util_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5630c44b212b90ad64c2bc2a994cbf28d1b08a7">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_1_1_3a1606a840dcab8c4e677b5cf627de378cb1122e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_cloud_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93ef91d018051b8b5e001eb5e106b983fee8a549">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_1_1_abe497d913c26b192b380081d7764c5e0436a459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_base_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_1_1_0c131bef429b6f13a5773468842ab63b9147505f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_bac70a454b3776601fede372da77e58dfee3ba36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.000\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\annotations-java5-15.0_4098c60a6a13b2b58a59b97774b1a7e90cf4386e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\locSDK_6.13_208b4bbaa3e330dc6e758d61061b2ebc92564c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_0e44b4871110c6d038328d35d9545ea042f3890f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.000\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_cc61540ee9493784ee78c912b8de194c0c594d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\baidumapapi_search_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b73dac26619f94061d28c54a7982ae8e0e783903">
+        <dex dex="G:\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_1_1_f7ce7ad84c9ac2f91bdcdbae4b0ee1f7fb9ae82b.jar" />
+    </item>
+
+</items>
