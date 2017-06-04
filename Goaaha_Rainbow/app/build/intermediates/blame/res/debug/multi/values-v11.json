@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 219
                 },
                 "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -28,172 +28,12 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 224,
-                    "endLine": 20,
+                    "endLine": 7,
                     "endColumn": 12,
-                    "endOffset": 1061
+                    "endOffset": 394
                 },
                 "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 283,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 1120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1066,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 1873
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1126,
-                        "endLine": 34,
-                        "endColumn": 12,
-                        "endOffset": 1933
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 1878,
-                    "endLine": 44,
-                    "endColumn": 12,
-                    "endOffset": 2697
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1939,
-                        "endLine": 47,
-                        "endColumn": 12,
-                        "endOffset": 2758
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 2702,
-                    "endLine": 60,
-                    "endColumn": 12,
-                    "endOffset": 3551
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 49,
-                        "startColumn": 4,
-                        "startOffset": 2764,
-                        "endLine": 64,
-                        "endColumn": 12,
-                        "endOffset": 3613
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 3556,
-                    "endColumn": 112,
-                    "endOffset": 3664
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 68,
-                        "startColumn": 4,
-                        "startOffset": 3845,
-                        "endColumn": 119,
-                        "endOffset": 3960
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 3669,
-                    "endColumn": 94,
-                    "endOffset": 3759
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 70,
-                        "startColumn": 4,
-                        "startOffset": 3966,
-                        "endColumn": 101,
-                        "endOffset": 4063
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 63,
-                    "startColumn": 4,
-                    "startOffset": 3764,
-                    "endColumn": 116,
-                    "endOffset": 3876
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 72,
-                        "startColumn": 4,
-                        "startOffset": 4069,
-                        "endColumn": 123,
-                        "endOffset": 4188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 3881,
-                    "endColumn": 124,
-                    "endOffset": 4001
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 74,
-                        "startColumn": 4,
-                        "startOffset": 4194,
-                        "endColumn": 131,
-                        "endOffset": 4321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 65,
-                    "startColumn": 4,
-                    "startOffset": 4006,
-                    "endLine": 67,
-                    "endColumn": 12,
-                    "endOffset": 4176
-                },
-                "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -206,14 +46,212 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 4181,
+                    "startOffset": 399,
                     "endColumn": 84,
-                    "endOffset": 4261
+                    "endOffset": 479
                 },
                 "from": {
-                    "file": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 91,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 84,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 91,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 84,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 91,
+                        "endOffset": 500
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 84,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

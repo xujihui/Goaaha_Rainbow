@@ -6,17 +6,28 @@
     android:orientation="vertical" >
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="@dimen/height_top_bar"
         android:orientation="horizontal"
-        android:background="#1dc5e7"
+        android:background="@color/top_bar_normal_bg"
         android:padding="5dp">
-        <TextView
-            android:layout_width="match_parent"
+       <!-- <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
             android:layout_height="match_parent"
-            android:text="个人中心"
+            android:src="@drawable/caizihuan_back"/>-->
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="8"
+            android:layout_height="match_parent"
+            android:text="      个人中心"
             android:gravity="center"
-            android:textSize="18dp"
+            android:textSize="18sp"
             android:textColor="#fff"/>
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="0.8"
+            android:layout_height="match_parent"
+            android:src="@drawable/caizihuan_personal"/>
     </LinearLayout>
 
     <ScrollView
@@ -49,12 +60,12 @@
                 android:layout_margin="5dp"
                 android:background="#fff">
                 <RelativeLayout
-                    android:id="@+id/czh_edit_gxqm"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
                     android:background="@drawable/btn_bottom_selector">
                     <ImageView
+                        android:id="@+id/czh_gxqm"
                         android:layout_width="50px"
                         android:layout_height="50px"
                         android:layout_marginTop="20px"
@@ -62,7 +73,6 @@
                         android:layout_marginLeft="20px"
                         android:src="@drawable/caizihuan_gxqm"/>
                     <TextView
-                        android:id="@+id/czh_gxqm"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:layout_marginLeft="100px"
@@ -71,6 +81,7 @@
                         android:textColor="@color/gray_normal"
                         android:textSize="14sp"/>
                     <ImageView
+                        android:id="@+id/czh_edit_gxqm"
                         android:layout_width="25dp"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
@@ -83,7 +94,6 @@
                     android:layout_height="0.5dp"
                     android:background="#c2c1c1"/>
                 <RelativeLayout
-                    android:id="@+id/czh_get_ewm"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
@@ -105,6 +115,7 @@
                         android:textColor="@color/gray_normal"
                         android:textSize="14sp"/>
                     <ImageView
+                        android:id="@+id/czh_get_ewm"
                         android:layout_width="25dp"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
@@ -117,7 +128,6 @@
                     android:layout_height="0.5dp"
                     android:background="#c2c1c1"/>
                 <RelativeLayout
-                    android:id="@+id/czh_to_share"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
@@ -139,6 +149,7 @@
                         android:textColor="@color/gray_normal"
                         android:textSize="14sp"/>
                     <ImageView
+                        android:id="@+id/czh_to_fx"
                         android:layout_width="25dp"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
@@ -151,7 +162,6 @@
                     android:layout_height="0.5dp"
                     android:background="#c2c1c1"/>
                 <RelativeLayout
-                    android:id="@+id/czh_to_zx"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
@@ -173,6 +183,7 @@
                         android:textColor="@color/gray_normal"
                         android:textSize="14sp"/>
                     <ImageView
+                        android:id="@+id/czh_to_zx"
                         android:layout_width="25dp"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
@@ -219,7 +230,6 @@
                     android:layout_height="0.5dp"
                     android:background="#c2c1c1"/>
                 <RelativeLayout
-                    android:id="@+id/czh_to_edit"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
@@ -241,6 +251,7 @@
                         android:textColor="@color/gray_normal"
                         android:textSize="14sp"/>
                     <ImageView
+                        android:id="@+id/czh_to_sz"
                         android:layout_width="25dp"
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
@@ -249,14 +260,13 @@
                         android:visibility="visible" />
                 </RelativeLayout>
                 <Button
-                    android:id="@+id/btn_logout"
-                    android:layout_width="330dp"
-                    android:layout_height="40dp"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
+                    android:text="退出当前账号"
                     android:textColor="#fff"
-                    android:background="#df0606"
-                    android:layout_marginTop="45dp"
-                    android:layout_marginBottom="30dp"/>
+                    android:background="#ff0000"
+                    android:layout_marginTop="20dp"/>
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
