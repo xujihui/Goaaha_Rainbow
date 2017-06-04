@@ -1,62 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
     },
     {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
     },
     {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\context_contact_list.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\delete_message.xml"
     },
     {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\delete_message.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\context_contact_list.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_message.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
-        "source": "G:\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\context_tab_contact.xml"
-    },
-    {
-        "merged": "F:\\wendang\\Goaaha\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
-        "source": "F:\\wendang\\Goaaha\\Goaaha\\app\\src\\main\\res\\menu\\delete_contact.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
-        "source": "C:\\Users\\Administrator.000\\Desktop\\Goaaha\\app\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\menu\\delete_contact.xml"
     }
 ]

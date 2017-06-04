@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_normal.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "G:\\Goaaha_rainbow_workspace\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    }
+]

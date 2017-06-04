@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <EditText
+        android:id="@+id/gxqm"
+        android:layout_width="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_height="50dp"
+        android:textColor="#545454"
+        android:textSize="15dp" />
+    <ImageView
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#c2c1c1"/>
+
+</LinearLayout>

@@ -14,6 +14,7 @@
 package com.easemob.chatuidemo.activity;
 
 import android.annotation.SuppressLint;
+import android.app.FragmentManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -166,6 +167,10 @@ public class MainActivity extends BaseActivity implements EMEventListener{
             case 4:
                 mapFragment=new MapFragment();
                 mapFragment.setContext(getApplicationContext());
+                break;
+            case 5:
+                settingFragment=new SettingsFragment();
+                settingFragment.setContext(getApplicationContext());
                 break;
         }
     }

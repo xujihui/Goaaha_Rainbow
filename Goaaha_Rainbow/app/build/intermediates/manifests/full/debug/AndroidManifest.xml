@@ -280,6 +280,7 @@
         <activity
             android:name="com.easemob.chatuidemo.activity.RoutePlanDemo"
             android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity android:name="com.easemob.chatuidemo.activity.SettingActivity" />
     </application>
 
 </manifest>
