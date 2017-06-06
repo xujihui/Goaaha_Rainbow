@@ -15,12 +15,12 @@ package com.easemob.chatuidemo.activity;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.NotificationCompat;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -81,6 +81,7 @@ public class SettingsFragment extends Fragment  {
 	 * 设置
 	 */
 	private RelativeLayout rl_to_edit;
+	private RelativeLayout rl_to_compass;
 
 	private Context context; //上下文环境
 
@@ -126,6 +127,7 @@ public class SettingsFragment extends Fragment  {
 		rl_to_share = (RelativeLayout) getView().findViewById(R.id.czh_to_share);
 		rl_to_zx = (RelativeLayout) getView().findViewById(R.id.czh_to_zx);
 		rl_to_edit = (RelativeLayout) getView().findViewById(R.id.czh_to_edit);
+		rl_to_compass = (RelativeLayout) getView().findViewById(R.id.czh_to_compass);
 		logoutBtn = (Button) getView().findViewById(R.id.btn_logout);
 	}
 
@@ -194,6 +196,19 @@ public class SettingsFragment extends Fragment  {
 				startActivity(intent);
 			}
 		});
+		//指南针
+		rl_to_compass.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(Intent.ACTION_MAIN);
+				ComponentName componentName = new ComponentName(
+						"perseverance.li.compass",//包名
+						"perseverance.li.compass.CompassActivity");//类名
+				intent.setComponent(componentName);
+				startActivity(intent);
+			}
+		});
+
 
 		//退出登录
 		logoutBtn.setOnClickListener(new View.OnClickListener() {
