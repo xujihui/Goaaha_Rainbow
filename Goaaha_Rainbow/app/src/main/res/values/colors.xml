@@ -42,5 +42,9 @@
     <color name="black_deep">#FF000000</color>
     <color name="btn_answer_pressed">#4ebcd3</color>
     <color name="btn_answer_normal">#2dafa3</color>
-
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="possible_result_points">#c0ffff00</color>
 </resources>

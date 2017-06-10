@@ -6,9 +6,9 @@
     android:orientation="vertical" >
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="46dp"
         android:orientation="horizontal"
-        android:background="#1dc5e7"
+        android:background="@color/top_bar_normal_bg"
         android:padding="5dp">
         <TextView
             android:layout_width="match_parent"
@@ -185,12 +185,12 @@
                     android:layout_height="0.5dp"
                     android:background="#c2c1c1"/>
                 <RelativeLayout
+                    android:id="@+id/czh_zhxx"
                     android:layout_width="match_parent"
                     android:layout_gravity="bottom"
                     android:layout_height="40dp"
                     android:background="@drawable/btn_bottom_selector">
                     <ImageView
-                        android:id="@+id/czh_zhxx"
                         android:layout_width="50px"
                         android:layout_height="50px"
                         android:layout_marginTop="20px"
@@ -215,9 +215,9 @@
                         android:visibility="visible" />
                 </RelativeLayout>
                 <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="0.5dp"
-                    android:background="#c2c1c1"/>
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#c2c1c1"/>
                 <RelativeLayout
                     android:id="@+id/czh_to_edit"
                     android:layout_width="match_parent"

@@ -1,23 +1,39 @@
 [
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_32.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_download_btn_nor.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_download_btn_nor.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
@@ -32,36 +48,36 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_20.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_3.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_3.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_pressed.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_selected.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_selected.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_error_icon.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\login_error_icon.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_34.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_voice_search.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w_cn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\w_cn.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
@@ -72,28 +88,28 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_download_btn_nor.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_36.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_36.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_17.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_17.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_9.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
@@ -112,36 +128,56 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_17.png"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_nor.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbg.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\buttonbg.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_1.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_1.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_5.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_5.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_4.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_40.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_40.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_8.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_8.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_voice_search.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_normal.png",
@@ -152,20 +188,636 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ground_overlay.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_13.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saoyisao.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_remove.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_remove.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_pwd.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_pwd.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_off.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\to_group_details_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\s.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_20.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_20.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f1.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f1.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_8.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_8.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compass_cn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\compass_cn.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_9.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_9.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_26.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_39.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_39.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_11.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compass.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\compass.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\to_group_details_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_small_nor.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_small_nor.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_compass.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\background_compass.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_6.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\n.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\n.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_on.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_2.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_2.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mine.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prompt.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_nor.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_7.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_stop_btn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_stop_btn.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_small_nor.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_small_nor.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_on.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_nor.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_3.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_selected.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_selected.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_34.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_34.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_16.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_9.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiahao.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_nor.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_2.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_2.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_10.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_16.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_7.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_04.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_04.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_unread.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\voice_unread.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_02.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_02.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_33.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_33.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_9.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_9.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_14.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ground_overlay.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ground_overlay.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s_cn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\s_cn.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_5.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_4.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_4.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suo.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\suo.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_selected.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_selected.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_40.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_40.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_35.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_35.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_gray_on.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_gray_on.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_37.png",
@@ -180,32 +832,44 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_15.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_15.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_public_group.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\add_public_group.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saoyisao.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_07.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
@@ -216,28 +880,24 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\to_group_details_normal.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\to_group_details_normal.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_03.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_03.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_06.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_06.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_24.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_24.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_09.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_09.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_26.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_marka.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_23.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_23.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
@@ -252,44 +912,56 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\e_cn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\e_cn.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend_pressed.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend_pressed.png"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_1.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_40.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_40.png"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_5.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_5.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_pressed.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_pressed.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_selected.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_selected.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\x.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\x.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_38.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_38.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_stop_btn.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_stop_btn.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\degree.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\degree.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_normal.png",
@@ -304,20 +976,8 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\mine.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\type_select_btn_nor.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\type_select_btn_nor.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_account.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\icon_account.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn_normal.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_normal.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_4.png",
@@ -332,72 +992,68 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_26.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_26.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_group.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\create_group.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_normal.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\currency_normal.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_normal.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\settings_normal.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_12.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_12.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_11.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
-    },
-    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_08.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_08.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_22.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_22.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_14.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_14.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups_icon.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_36.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_36.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f1.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f1.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups_icon.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_28.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_28.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_error_icon.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\login_error_icon.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiahao.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_camera_icon.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\actionbar_camera_icon.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_off.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiahao.png",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\jiahao.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_3.png",
@@ -408,28 +1064,28 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_10.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_13.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_13.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_11.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_11.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_25.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_25.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_19.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_30.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_6.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f2.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f2.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_7.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_7.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
@@ -440,8 +1096,12 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_39.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_normal.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang1.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\touxiang1.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\w.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\w.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
@@ -452,6 +1112,10 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cover.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\cover.png"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_32.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_32.png"
     },
@@ -460,20 +1124,48 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\appitem_del_btn_pressed.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\faqiqunliao.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\faqiqunliao.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_05.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_05.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_selected.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_selected.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_12.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_12.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups_icon.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\groups_icon.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saoyisao.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\saoyisao.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_38.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_38.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_27.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_27.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
@@ -492,40 +1184,52 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_7.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_7.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre_.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_0.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_0.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_07.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_07.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roominfo_add_btn_pressed.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\roominfo_add_btn_pressed.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\conversation_normal.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\conversation_normal.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_01.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_01.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_small_nor.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_small_nor.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_21.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_21.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\number_6.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\number_6.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_29.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_29.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dx_checkbox_on.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\dx_checkbox_on.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_voice_playing_f3.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatfrom_voice_playing_f3.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_minus_btn_nor.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_minus_btn_nor.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\e.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\e.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_selected.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\map_selected.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_pressed.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
@@ -534,10 +1238,6 @@
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\currency_normal.png",
@@ -552,35 +1252,43 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\n_cn.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\n_cn.png"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_19.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_19.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_14.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_14.png"
-    },
-    {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_16.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_16.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_31.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_31.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_animate_11.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\record_animate_11.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_state_fail_resend.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\msg_state_fail_resend.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_6.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_10.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_keyboard_btn_pressed.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\chatting_setmode_keyboard_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_37.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_37.png"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianjiapengyou.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\tianjiapengyou.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_13.png",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_13.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_add_btn_nor.png",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\smiley_add_btn_nor.png"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\drawable-hdpi\\ee_18.png"
     }
 ]

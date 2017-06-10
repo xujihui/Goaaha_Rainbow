@@ -280,7 +280,18 @@
         <activity
             android:name=".activity.RoutePlanDemo"
             android:theme="@android:style/Theme.Black.NoTitleBar" />
-        <activity android:name=".activity.SettingActivity"></activity>
+        <activity android:name=".activity.SettingActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar"></activity>
+        <activity android:name=".activity.CompassActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Black.NoTitleBar"/>
+        <activity android:name=".activity.MessageActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Black.NoTitleBar"/>
+        <activity android:name=".activity.EricActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar"/>
+        <activity android:name=".activity.CaptureActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar"/>
     </application>
 
 </manifest>

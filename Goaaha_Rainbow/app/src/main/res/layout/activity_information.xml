@@ -57,7 +57,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/White"
-                android:text="杨梦奇总有一天会学会安卓"
+                android:text="我们总有一天会学会安卓"
                 android:textSize="16sp" />
             <TextView
                 android:layout_width="210dp"
@@ -65,7 +65,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="10dp"
                 android:textColor="@color/White"
-                android:text="“魔镜魔镜告诉我，我是不是世界上最美丽的人”“是！那必须是！”"/>
+                android:text="“魔镜魔镜快告诉我，我是不是世界上最美丽的人”“是！必须是！”"/>
         </LinearLayout>
     </LinearLayout>
     <View
@@ -120,16 +120,24 @@
             android:layout_marginLeft="50dp"
             android:textColor="@color/DarkGray"
             android:text="性别"/>
-        <TextView
+        <!--<TextView-->
+            <!--android:layout_width="115dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="15sp"-->
+            <!--android:layout_marginTop="15dp"-->
+            <!--android:layout_marginBottom="15dp"-->
+            <!--android:layout_marginLeft="40dp"-->
+            <!--android:gravity="right"-->
+            <!--android:textColor="@color/DarkGray"-->
+            <!--android:text="女"/>-->
+        <Spinner
+            android:id="@+id/id_spinner_f_1"
             android:layout_width="115dp"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:entries="@array/s_spinner1"
             android:textSize="15sp"
-            android:layout_marginTop="15dp"
-            android:layout_marginBottom="15dp"
-            android:layout_marginLeft="40dp"
-            android:gravity="right"
-            android:textColor="@color/DarkGray"
-            android:text="女"/>
+            android:layout_marginLeft="70dp"
+            android:gravity="right"/>
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -181,16 +189,24 @@
             android:layout_marginLeft="50dp"
             android:textColor="@color/DarkGray"
             android:text="年龄"/>
-        <TextView
+        <!--<TextView-->
+            <!--android:layout_width="115dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="15sp"-->
+            <!--android:layout_marginTop="15dp"-->
+            <!--android:layout_marginBottom="15dp"-->
+            <!--android:layout_marginLeft="40dp"-->
+            <!--android:gravity="right"-->
+            <!--android:textColor="@color/DarkGray"-->
+            <!--android:text="18"/>-->
+        <Spinner
+            android:id="@+id/id_spinner_f_3"
             android:layout_width="115dp"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:entries="@array/s_spinner3"
             android:textSize="15sp"
-            android:layout_marginTop="15dp"
-            android:layout_marginBottom="15dp"
-            android:layout_marginLeft="40dp"
-            android:gravity="right"
-            android:textColor="@color/DarkGray"
-            android:text="18"/>
+            android:layout_marginLeft="70dp"
+            android:gravity="right"/>
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

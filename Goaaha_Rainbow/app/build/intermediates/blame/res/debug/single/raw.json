@@ -1,6 +1,18 @@
 [
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\raw\\realm_properties"
     }
 ]
