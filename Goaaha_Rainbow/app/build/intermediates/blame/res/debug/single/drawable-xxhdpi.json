@@ -8,12 +8,12 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_dark.9.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png"
-    },
-    {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_solid_light_holo.9.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_dropdown_panel_holo_light.9.png",

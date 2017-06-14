@@ -1643,7 +1643,7 @@ containing a value of this type.
         public static final int btn_hangup_call=0x7f0d0106;
         public static final int btn_location=0x7f0d0072;
         public static final int btn_location_send=0x7f0d0053;
-        public static final int btn_logout=0x7f0d0131;
+        public static final int btn_logout=0x7f0d012f;
         public static final int btn_map=0x7f0d00bf;
         public static final int btn_more=0x7f0d006a;
         public static final int btn_picture=0x7f0d0071;
@@ -1690,22 +1690,22 @@ containing a value of this type.
         public static final int currency2=0x7f0d013b;
         public static final int customicon=0x7f0d00a9;
         public static final int czh_back=0x7f0d0083;
-        public static final int czh_compass=0x7f0d0130;
+        public static final int czh_compass=0x7f0d012e;
         public static final int czh_edit_gxqm=0x7f0d00c3;
         public static final int czh_ewm=0x7f0d012a;
-        public static final int czh_fx=0x7f0d012b;
+        public static final int czh_fx=0x7f0d0130;
         public static final int czh_get_ewm=0x7f0d00c5;
         public static final int czh_get_zhxx=0x7f0d00c9;
         public static final int czh_gxqm=0x7f0d00c4;
-        public static final int czh_sz=0x7f0d012e;
-        public static final int czh_to_compass=0x7f0d012f;
-        public static final int czh_to_edit=0x7f0d012d;
-        public static final int czh_to_fx=0x7f0d0132;
+        public static final int czh_sz=0x7f0d012c;
+        public static final int czh_to_compass=0x7f0d012d;
+        public static final int czh_to_edit=0x7f0d012b;
+        public static final int czh_to_fx=0x7f0d0131;
         public static final int czh_to_share=0x7f0d00c6;
         public static final int czh_to_sz=0x7f0d0133;
         public static final int czh_to_zx=0x7f0d00c7;
         public static final int czh_zhxx=0x7f0d00c8;
-        public static final int czh_zx=0x7f0d012c;
+        public static final int czh_zx=0x7f0d0132;
         public static final int date=0x7f0d0134;
         public static final int decode=0x7f0d0004;
         public static final int decode_failed=0x7f0d0005;
@@ -2439,10 +2439,16 @@ containing a value of this type.
         public static final int Anim_style=0x7f09004a;
         public static final int Anim_style2=0x7f090002;
         public static final int AppTheme=0x7f09004b;
+        /**  模糊 
+         */
         public static final int HeadScale=0x7f09004c;
         public static final int MyAlertDialog=0x7f09004d;
         public static final int MyDialogStyle=0x7f09004e;
+        /**  模糊 
+         */
         public static final int MyDialogStyleBottom=0x7f09004f;
+        /**  模糊 
+         */
         public static final int MyDialogStyleTop=0x7f090050;
         public static final int TextAppearance_AppCompat_Base_CompactMenu_Dialog=0x7f090051;
         public static final int TextAppearance_AppCompat_Base_SearchResult=0x7f090052;

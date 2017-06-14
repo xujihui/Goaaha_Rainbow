@@ -1,4 +1,4 @@
-#Sat Jun 10 18:49:52 CST 2017
-base.0=F\:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Jun 15 00:00:55 CST 2017
+base.0=F\:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=F\:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=F\:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

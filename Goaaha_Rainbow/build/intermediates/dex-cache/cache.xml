@@ -84,21 +84,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\libs\locSDK_6.13.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
-        <dex dex="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\locSDK_6.13_2bddbf00d318b5320d9c65619cc1a5ca90366ce2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\umeng-analytics-v5.2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
         <dex dex="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_9aeae9c6e47517dd78cea0750ec504849215479e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\locSDK_6.13_2bddbf00d318b5320d9c65619cc1a5ca90366ce2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +192,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\java\com\easemob\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\core_1963b7c85c33e2b94f8cdb9ee5a6faf3a1a9e6aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\libs\baidumapapi_radar_v4_1_1.jar"
         jumboMode="false"
         optimize="true"
@@ -201,21 +210,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\libs\easemobchat_2.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
-        <dex dex="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_4329534f81a55ad61b618e7d52587d75fda16c47.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\libs\org.apache.http.legacy.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
         <dex dex="F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_0f5eae2ea7ee8118feed30aa1d5d4dbe48368eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\libs\easemobchat_2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3b812d16c44e789fc32d6dfc36c84b824390ab">
+        <dex dex="F:\wendang\yuanwenjian\Goaaha_Rainbow\app\build\intermediates\pre-dexed\debug\easemobchat_2.2.0_4329534f81a55ad61b618e7d52587d75fda16c47.jar" />
     </item>
     <item
         is-multidex="false"

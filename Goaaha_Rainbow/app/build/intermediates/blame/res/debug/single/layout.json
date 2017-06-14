@@ -24,6 +24,10 @@
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\activity_video_call.xml"
     },
     {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_eric.xml",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\activity_eric.xml"
+    },
+    {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
         "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_sent_file.xml"
     },
@@ -80,16 +84,16 @@
         "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\activity_edit.xml"
     },
     {
-        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
-        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_received_message.xml"
     },
     {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
         "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_received_file.xml"
     },
     {
-        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
-        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_received_message.xml"
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_sent_video_call.xml"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
@@ -146,6 +150,10 @@
     {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
         "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\compass_layout.xml",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\compass_layout.xml"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -620,6 +628,10 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\activity_diagnose.xml"
     },
@@ -734,6 +746,10 @@
     {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
         "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\layout\\capture.xml"
     },
     {
         "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
