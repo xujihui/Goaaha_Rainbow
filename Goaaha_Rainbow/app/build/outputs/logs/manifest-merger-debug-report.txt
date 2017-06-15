@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:2:1-286:12
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:2:1-297:12
 	package
 		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml
@@ -119,7 +119,7 @@ ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManife
 	android:name
 		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:33:22-77
 application
-ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:35:5-284:19
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:35:5-295:19
 MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\lenovo\.android\build-cache\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\output\AndroidManifest.xml:19:5-20
 	android:label
 		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:39:9-41
@@ -526,6 +526,36 @@ ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManife
 	android:name
 		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:281:13-51
 activity#com.easemob.chatuidemo.activity.SettingActivity
-ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:283:9-71
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:283:9-284:78
+	android:theme
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:284:13-66
 	android:name
 		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:283:19-59
+activity#com.easemob.chatuidemo.activity.CompassActivity
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:285:9-287:68
+	android:configChanges
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:286:13-74
+	android:theme
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:287:13-66
+	android:name
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:285:19-59
+activity#com.easemob.chatuidemo.activity.MessageActivity
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:288:9-290:68
+	android:configChanges
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:289:13-74
+	android:theme
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:290:13-66
+	android:name
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:288:19-59
+activity#com.easemob.chatuidemo.activity.EricActivity
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:291:9-292:68
+	android:theme
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:292:13-66
+	android:name
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:291:19-56
+activity#com.easemob.chatuidemo.activity.CaptureActivity
+ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:293:9-294:68
+	android:theme
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:294:13-66
+	android:name
+		ADDED from F:\Goaaha2.0\Goaaha_Rainbow\Goaaha_Rainbow\app\src\main\AndroidManifest.xml:293:19-59

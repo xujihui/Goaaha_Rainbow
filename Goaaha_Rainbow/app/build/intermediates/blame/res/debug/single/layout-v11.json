@@ -1,10 +1,18 @@
 [
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\layout-v11\\abc_simple_decor.xml"
     },
     {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\layout-v11\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\layout-v11\\abc_action_bar_decor.xml"
     }
 ]

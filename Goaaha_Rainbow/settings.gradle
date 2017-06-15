@@ -1,1 +1,1 @@
-include ':app', 'Compass-master:app'
+include ':app'

@@ -4,7 +4,15 @@
         "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\color\\abc_search_url_text_holo.xml"
     },
     {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+    },
+    {
         "merged": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
         "source": "F:\\Goaaha2.0\\Goaaha_Rainbow\\Goaaha_Rainbow\\app\\src\\main\\res\\color\\main_botton_text_color.xml"
+    },
+    {
+        "merged": "F:\\wendang\\yuanwenjian\\Goaaha_Rainbow\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\8ce7b57eb54494e7ea59ea473ee62dfab69aeb8e\\output\\res\\color\\abc_search_url_text_holo.xml"
     }
 ]

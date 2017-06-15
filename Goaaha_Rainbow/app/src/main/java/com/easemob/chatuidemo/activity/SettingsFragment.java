@@ -15,7 +15,6 @@ package com.easemob.chatuidemo.activity;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -70,12 +69,16 @@ public class SettingsFragment extends Fragment  {
 	/**
 	 * 分享
 	 */
-	private RelativeLayout rl_to_share;
+//	private RelativeLayout rl_to_share;
 
 	/**
 	 * 注销账号
 	 */
-	private RelativeLayout rl_to_zx;
+//	private RelativeLayout rl_to_zx;
+	/**
+	 * 账号信息
+	 */
+	private RelativeLayout rl_to_zhxx;
 
 	/**
 	 * 设置
@@ -124,8 +127,9 @@ public class SettingsFragment extends Fragment  {
 		tv_gxqm = (TextView) getView().findViewById(R.id.czh_gxqm);
 		rl_edit_gxqm = (RelativeLayout) getView().findViewById(R.id.czh_edit_gxqm);
 		rl_get_ewm = (RelativeLayout) getView().findViewById(R.id.czh_get_ewm);
-		rl_to_share = (RelativeLayout) getView().findViewById(R.id.czh_to_share);
-		rl_to_zx = (RelativeLayout) getView().findViewById(R.id.czh_to_zx);
+//		rl_to_share = (RelativeLayout) getView().findViewById(R.id.czh_to_share);
+//		rl_to_zx = (RelativeLayout) getView().findViewById(R.id.czh_to_zx);
+		rl_to_zhxx=(RelativeLayout)getView().findViewById(R.id.czh_zhxx);
 		rl_to_edit = (RelativeLayout) getView().findViewById(R.id.czh_to_edit);
 		rl_to_compass = (RelativeLayout) getView().findViewById(R.id.czh_to_compass);
 		logoutBtn = (Button) getView().findViewById(R.id.btn_logout);
@@ -168,26 +172,34 @@ public class SettingsFragment extends Fragment  {
 		rl_get_ewm.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
+				Intent intent = new Intent(getActivity(),EricActivity.class);
+				startActivity(intent);
 
 			}
 		});
 
 		//分享
-		rl_to_share.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View view) {
-
-			}
-		});
+//		rl_to_share.setOnClickListener(new View.OnClickListener() {
+//			@Override
+//			public void onClick(View view) {
+//
+//			}
+//		});
 
 		//注销
-		rl_to_zx.setOnClickListener(new View.OnClickListener() {
+//		rl_to_zx.setOnClickListener(new View.OnClickListener() {
+//			@Override
+//			public void onClick(View view) {
+//
+//			}
+//		});
+		rl_to_zhxx.setOnClickListener(new View.OnClickListener() {
 			@Override
-			public void onClick(View view) {
-
+			public void onClick(View v) {
+				Intent intent = new Intent(getActivity(),MessageActivity.class);
+				startActivity(intent);
 			}
 		});
-
 		//设置
 		rl_to_edit.setOnClickListener(new View.OnClickListener() {
 			@Override
@@ -200,11 +212,7 @@ public class SettingsFragment extends Fragment  {
 		rl_to_compass.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				Intent intent = new Intent(Intent.ACTION_MAIN);
-				ComponentName componentName = new ComponentName(
-						"perseverance.li.compass",//包名
-						"perseverance.li.compass.CompassActivity");//类名
-				intent.setComponent(componentName);
+				Intent intent = new Intent(getActivity(),CompassActivity.class);
 				startActivity(intent);
 			}
 		});
